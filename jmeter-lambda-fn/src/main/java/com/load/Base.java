@@ -1,3 +1,5 @@
+package com.load;
+
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3ClientBuilder;
 import com.amazonaws.services.s3.model.PutObjectRequest;
